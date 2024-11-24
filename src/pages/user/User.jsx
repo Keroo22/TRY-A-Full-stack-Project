@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import AddUlcer from "../../components/AddUlcer/AddUlcer"; // Adjust path as needed
+import AddUlcer from "../../components/AddUlcer/AddUlcer";
 import "./user.css";  // Assuming the CSS file is in the same folder as User.jsx
 
 const User = () => {
